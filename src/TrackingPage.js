@@ -14,7 +14,7 @@ const TrackingPage = () => {
         <div style={{ padding: '20px', maxWidth: '600px', margin: '0 auto' }}>
             <Paper elevation={3} style={{ padding: '20px' }}>
                 <Typography variant="h4" gutterBottom>
-                    Package Tracking
+                Prince Zuko Inc Package Tracking 
                 </Typography>
                 <Typography variant="subtitle1">
                     <strong>Order Number:</strong> 12345
