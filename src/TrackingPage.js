@@ -20,7 +20,7 @@ const TrackingPage = () => {
                     <strong>Order Number:</strong> 12345
                 </Typography>
                 <Typography variant="subtitle1" gutterBottom>
-                    <strong>Estimated Delivery:</strong> Within 7 business days
+                    <strong>Estimated Delivery:</strong> Within 24 hours
                 </Typography>
                 <List>
                     {trackingStages.map((stage, index) => (
