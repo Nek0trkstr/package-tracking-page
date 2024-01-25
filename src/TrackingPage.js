@@ -4,10 +4,10 @@ import { Paper, Typography, List, ListItem, ListItemText, Divider } from '@mui/m
 const TrackingPage = () => {
     const trackingStages = [
         { id: 1, status: "🌱 Order Processed", description: "Your order has been processed and is ready for shipment." },
-        { id: 2, status: "🛫 In Transit", description: "Your package is on its way to the destination." },
-        { id: 3, status: "🛂 Cleared Customs", description: "Your package has cleared customs and is en route to you." },
-        { id: 4, status: "🏎 Out for Delivery", description: "Your package is out for delivery and will arrive soon." },
-        { id: 5, status: "🤍 Delivered", description: "Your package has been delivered. Enjoy!" }
+        // { id: 2, status: "🛫 In Transit", description: "Your package is on its way to the destination." },
+        // { id: 3, status: "🛂 Cleared Customs", description: "Your package has cleared customs and is en route to you." },
+        // { id: 4, status: "🏎 Out for Delivery", description: "Your package is out for delivery and will arrive soon." },
+        // { id: 5, status: "🤍 Delivered", description: "Your package has been delivered. Enjoy!" }
     ];
 
     return (
